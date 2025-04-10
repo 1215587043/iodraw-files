@@ -82,8 +82,8 @@
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-20" value="接收用户输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="-560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8b6I0VbNwOF9SOo_pBH9-22" value="模型训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-740" width="120" height="40" as="geometry" />
+        <mxCell id="8b6I0VbNwOF9SOo_pBH9-22" value="输入预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-480" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

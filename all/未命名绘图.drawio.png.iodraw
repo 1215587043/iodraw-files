@@ -41,7 +41,7 @@
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-211" value="注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="30" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8b6I0VbNwOF9SOo_pBH9-213" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8b6I0VbNwOF9SOo_pBH9-213" value="路线热度排行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="250" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-214" value="购买盲盒" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">

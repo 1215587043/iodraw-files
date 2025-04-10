@@ -105,7 +105,10 @@
         </mxCell>
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8b6I0VbNwOF9SOo_pBH9-27">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="-280" as="targetPoint" />
+            <mxPoint x="520" y="-240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="-280" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-27" value="数据合规" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">

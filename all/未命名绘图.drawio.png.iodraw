@@ -178,6 +178,9 @@
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-88" value="目的地" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-470" y="590" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="8b6I0VbNwOF9SOo_pBH9-89" value="旅游频率" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="40" width="90" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -13,7 +13,7 @@
             <mxPoint x="240" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8b6I0VbNwOF9SOo_pBH9-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8b6I0VbNwOF9SOo_pBH9-47" value="用户信息表（user）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="80" height="40" as="geometry" />
         </mxCell>
       </root>

@@ -108,14 +108,14 @@
         </mxCell>
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8b6I0VbNwOF9SOo_pBH9-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="-80" as="targetPoint" />
+            <mxPoint x="400" y="-110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-30" value="生成推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="-200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-33" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-80" width="120" height="40" as="geometry" />
+          <mxGeometry x="340" y="-110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-34" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="-240" width="40" height="30" as="geometry" />

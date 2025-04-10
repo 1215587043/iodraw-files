@@ -128,6 +128,9 @@
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-34" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="-240" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8b6I0VbNwOF9SOo_pBH9-37" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-312" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

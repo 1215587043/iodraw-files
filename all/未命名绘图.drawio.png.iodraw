@@ -479,7 +479,7 @@
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-173" value="所在城市" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="1040" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8b6I0VbNwOF9SOo_pBH9-174" value="图片路径数组" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8b6I0VbNwOF9SOo_pBH9-174" value="推荐权重" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1030" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-175" value="图片路径数组" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">

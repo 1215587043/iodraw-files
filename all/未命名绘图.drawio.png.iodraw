@@ -82,8 +82,16 @@
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-20" value="接收用户输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="-560" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="8b6I0VbNwOF9SOo_pBH9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8b6I0VbNwOF9SOo_pBH9-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="-400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-22" value="输入预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="-480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8b6I0VbNwOF9SOo_pBH9-24" value="模型训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-400" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -16,6 +16,9 @@
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-200" value="登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="80" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="8b6I0VbNwOF9SOo_pBH9-201" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

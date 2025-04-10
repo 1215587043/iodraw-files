@@ -106,11 +106,14 @@
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-71" value="月收入" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="10" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8b6I0VbNwOF9SOo_pBH9-72" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="8b6I0VbNwOF9SOo_pBH9-72" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-475" y="290" as="sourcePoint" />
+            <mxPoint x="-460" y="280" as="sourcePoint" />
             <mxPoint x="-200" y="80" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8b6I0VbNwOF9SOo_pBH9-73" value="月收入" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="30" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

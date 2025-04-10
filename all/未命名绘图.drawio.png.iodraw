@@ -221,7 +221,16 @@
           <mxGeometry x="170" y="20" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-101" value="盲盒抽取方式" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="30" width="90" height="50" as="geometry" />
+          <mxGeometry x="290" y="20" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8b6I0VbNwOF9SOo_pBH9-102" value="盲盒抽取方式" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="30" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8b6I0VbNwOF9SOo_pBH9-103" value="盲盒抽取方式" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="60" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8b6I0VbNwOF9SOo_pBH9-104" value="盲盒抽取方式" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="60" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

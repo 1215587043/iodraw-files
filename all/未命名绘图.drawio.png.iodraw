@@ -7,7 +7,7 @@
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-197" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="10" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8b6I0VbNwOF9SOo_pBH9-199" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8b6I0VbNwOF9SOo_pBH9-199" value="旅游盲盒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-200" value="登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">

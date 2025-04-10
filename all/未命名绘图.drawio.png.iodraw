@@ -101,6 +101,12 @@
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-27" value="数据合规" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="-320" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="8b6I0VbNwOF9SOo_pBH9-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="-360" as="sourcePoint" />
+            <mxPoint x="460" y="-410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

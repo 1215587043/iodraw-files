@@ -175,8 +175,8 @@
             <mxPoint x="-536" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8b6I0VbNwOF9SOo_pBH9-88" value="盲盒类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="530" width="90" height="50" as="geometry" />
+        <mxCell id="8b6I0VbNwOF9SOo_pBH9-88" value="目的地" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="590" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

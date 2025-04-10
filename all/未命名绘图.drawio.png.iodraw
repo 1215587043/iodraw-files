@@ -33,13 +33,16 @@
           <mxGeometry x="250" y="30" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-209" value="同意《用户协议》" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="50" width="110" height="40" as="geometry" />
+          <mxGeometry x="340" y="30" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-210" value="账号密码校验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="30" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-211" value="注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="30" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8b6I0VbNwOF9SOo_pBH9-212" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

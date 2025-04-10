@@ -38,7 +38,7 @@
           <mxGeometry x="360" y="-760" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-9" value="模型评估是否达标" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-680" width="80" height="60" as="geometry" />
+          <mxGeometry x="360" y="-680" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

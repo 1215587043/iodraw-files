@@ -40,8 +40,8 @@
         <mxCell id="8b6I0VbNwOF9SOo_pBH9-9" value="模型评估是否达标" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="-680" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8b6I0VbNwOF9SOo_pBH9-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="-700" width="50" height="30" as="geometry" />
+        <mxCell id="8b6I0VbNwOF9SOo_pBH9-12" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-700" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

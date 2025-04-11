@@ -95,6 +95,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="570" as="sourcePoint" />
             <mxPoint x="190" y="120" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g3OQA1MGCMi6wXu5Xna--26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="g3OQA1MGCMi6wXu5Xna--21">
+          <mxGeometry x="0.0089" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="g3OQA1MGCMi6wXu5Xna--22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -102,12 +108,6 @@
             <mxPoint x="890" y="120" as="sourcePoint" />
             <mxPoint x="900" y="570" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="g3OQA1MGCMi6wXu5Xna--23" value="后台处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="160" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="g3OQA1MGCMi6wXu5Xna--24" value="前端页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="160" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -31,7 +31,7 @@
         <mxCell id="yes76R0pdOmCLAEpGW5V-10" value="业务流程&#xa;- 推荐请求处理&#xa;- 订单事务管理" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-7">
           <mxGeometry x="20" y="240" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yes76R0pdOmCLAEpGW5V-11" value="&lt;b&gt;数据库层 (MySQL)&lt;/b&gt;" style="swimlane;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="yes76R0pdOmCLAEpGW5V-11" value="数据库层 (MySQL)" style="swimlane;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="840" y="120" width="280" height="400" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-12" value="&lt;b&gt;结构化存储&lt;/b&gt;&#xa;- 用户表&#xa;- 产品表&#xa;- 订单表&#xa;- 库存表" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-11">

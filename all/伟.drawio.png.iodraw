@@ -22,7 +22,7 @@
         <mxCell id="yes76R0pdOmCLAEpGW5V-7" value="&lt;b&gt;云服务层&lt;/b&gt;" style="swimlane;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="280" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="yes76R0pdOmCLAEpGW5V-8" value="&lt;b&gt;微信云函数&lt;/b&gt;&#xa;- KNN算法实现&#xa;- 实时推荐生成" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-7">
+        <mxCell id="yes76R0pdOmCLAEpGW5V-8" value="微信云函数&#xa;- KNN算法实现&#xa;- 实时推荐生成" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-7">
           <mxGeometry x="20" y="40" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-9" value="云数据库API&#xa;- MySQL读写接口&#xa;- JSON动态查询" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-7">

@@ -13,9 +13,6 @@
         <mxCell id="yes76R0pdOmCLAEpGW5V-4" value="技术栈&#xa;- 微信原生框架&#xa;- Node.js&#xa;- Vue.js&#xa;- Uview Plus" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-3">
           <mxGeometry x="20" y="40" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="yes76R0pdOmCLAEpGW5V-5" value="核心功能&#xa;- 用户注册/登录&#xa;- 偏好标签选择&#xa;- 推荐卡片展示&#xa;- 订单追踪" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-3">
-          <mxGeometry x="75" y="180" width="130" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-6" value="数据交互&#xa;- HTTP请求云函数&#xa;- JSON数据解析" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-3">
           <mxGeometry x="75" y="310" width="120" height="80" as="geometry" />
         </mxCell>
@@ -26,7 +23,7 @@
           <mxGeometry x="100" y="40" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-9" value="云数据库API&#xa;- MySQL读写接口&#xa;- JSON动态查询" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-7">
-          <mxGeometry x="105" y="150" width="110" height="70" as="geometry" />
+          <mxGeometry x="105" y="165" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-10" value="业务流程&#xa;- 推荐请求处理&#xa;- 订单事务管理" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-7">
           <mxGeometry x="110" y="250" width="100" height="70" as="geometry" />
@@ -51,6 +48,9 @@
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yes76R0pdOmCLAEpGW5V-10" target="yes76R0pdOmCLAEpGW5V-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yes76R0pdOmCLAEpGW5V-5" value="核心功能&#xa;- 用户注册/登录&#xa;- 偏好标签选择&#xa;- 推荐卡片展示&#xa;- 订单追踪" style="text;align=left;" vertex="1" parent="1">
+          <mxGeometry x="270" y="520" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

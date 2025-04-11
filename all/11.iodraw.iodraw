@@ -232,7 +232,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9t7srf27pOHJmgSFPxVp-54" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 16px;&quot;&gt;1：N&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=16;" connectable="0" vertex="1" parent="9t7srf27pOHJmgSFPxVp-53">
+        <mxCell id="9t7srf27pOHJmgSFPxVp-54" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 18px;&quot;&gt;1：N&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=18;" connectable="0" vertex="1" parent="9t7srf27pOHJmgSFPxVp-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9t7srf27pOHJmgSFPxVp-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#007FFF;" edge="1" parent="1" source="9t7srf27pOHJmgSFPxVp-3" target="9t7srf27pOHJmgSFPxVp-30">
@@ -244,7 +244,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9t7srf27pOHJmgSFPxVp-57" value="&lt;font color=&quot;#ff0000&quot;&gt;1：N&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=35;" connectable="0" vertex="1" parent="9t7srf27pOHJmgSFPxVp-56">
+        <mxCell id="9t7srf27pOHJmgSFPxVp-57" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 18px;&quot;&gt;1：N&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=35;fontSize=18;" connectable="0" vertex="1" parent="9t7srf27pOHJmgSFPxVp-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

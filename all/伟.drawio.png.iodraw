@@ -56,7 +56,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-5" value="核心功能&#xa;- 用户注册/登录&#xa;- 偏好标签选择&#xa;- 推荐卡片展示&#xa;- 订单追踪" style="text;align=left;" vertex="1" parent="1">
-          <mxGeometry x="180" y="420" width="130" height="80" as="geometry" />
+          <mxGeometry x="215" y="410" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -20,13 +20,13 @@
           <mxGeometry x="20" y="300" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-7" value="&lt;b&gt;云服务层&lt;/b&gt;" style="swimlane;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="480" y="140" width="280" height="400" as="geometry" />
+          <mxGeometry x="480" y="120" width="280" height="400" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-8" value="&lt;b&gt;微信云函数&lt;/b&gt;&#xa;- KNN算法实现&#xa;- 实时推荐生成" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-7">
           <mxGeometry x="20" y="40" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-9" value="&lt;b&gt;云数据库API&lt;/b&gt;&#xa;- MySQL读写接口&#xa;- JSON动态查询" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-7">
-          <mxGeometry x="20" y="140" width="240" height="80" as="geometry" />
+          <mxGeometry x="20" y="160" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-10" value="&lt;b&gt;业务流程&lt;/b&gt;&#xa;- 推荐请求处理&#xa;- 订单事务管理" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-7">
           <mxGeometry x="20" y="240" width="240" height="80" as="geometry" />

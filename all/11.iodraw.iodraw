@@ -79,15 +79,6 @@
         <mxCell id="9t7srf27pOHJmgSFPxVp-18" value="产品ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="60" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9t7srf27pOHJmgSFPxVp-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9t7srf27pOHJmgSFPxVp-3" target="9t7srf27pOHJmgSFPxVp-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="230" as="sourcePoint" />
-            <mxPoint x="480" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9t7srf27pOHJmgSFPxVp-20" value="1：N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="405" y="175" width="60" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="9t7srf27pOHJmgSFPxVp-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9t7srf27pOHJmgSFPxVp-1" target="9t7srf27pOHJmgSFPxVp-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="350" as="sourcePoint" />

@@ -7,6 +7,51 @@
         <mxCell id="yes76R0pdOmCLAEpGW5V-1" value="&#xa;    &#xa;        &#xa;            &#xa;                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;&#xa;                &#xa;                &#xa;                    &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;&#xa;                &#xa;                &#xa;                    &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;&#xa;                &#xa;                &#xa;                    &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;            &#xa;        &#xa;    &#xa;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry width="560" height="920" as="geometry" />
         </mxCell>
+        <mxCell id="yes76R0pdOmCLAEpGW5V-3" value="&lt;b&gt;前端交互层&lt;/b&gt;" style="swimlane;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="280" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="yes76R0pdOmCLAEpGW5V-4" value="&lt;b&gt;技术栈&lt;/b&gt;&#xa;- 微信原生框架&#xa;- Node.js&#xa;- Vue.js&#xa;- Uview Plus" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-3">
+          <mxGeometry x="20" y="40" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yes76R0pdOmCLAEpGW5V-5" value="&lt;b&gt;核心功能&lt;/b&gt;&#xa;- 用户注册/登录&#xa;- 偏好标签选择&#xa;- 推荐卡片展示&#xa;- 订单追踪" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-3">
+          <mxGeometry x="20" y="180" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yes76R0pdOmCLAEpGW5V-6" value="&lt;b&gt;数据交互&lt;/b&gt;&#xa;- HTTP请求云函数&#xa;- JSON数据解析" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-3">
+          <mxGeometry x="20" y="300" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yes76R0pdOmCLAEpGW5V-7" value="&lt;b&gt;云服务层&lt;/b&gt;" style="swimlane;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="280" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="yes76R0pdOmCLAEpGW5V-8" value="&lt;b&gt;微信云函数&lt;/b&gt;&#xa;- KNN算法实现&#xa;- 实时推荐生成" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-7">
+          <mxGeometry x="20" y="40" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yes76R0pdOmCLAEpGW5V-9" value="&lt;b&gt;云数据库API&lt;/b&gt;&#xa;- MySQL读写接口&#xa;- JSON动态查询" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-7">
+          <mxGeometry x="20" y="140" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yes76R0pdOmCLAEpGW5V-10" value="&lt;b&gt;业务流程&lt;/b&gt;&#xa;- 推荐请求处理&#xa;- 订单事务管理" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-7">
+          <mxGeometry x="20" y="240" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yes76R0pdOmCLAEpGW5V-11" value="&lt;b&gt;数据库层 (MySQL)&lt;/b&gt;" style="swimlane;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="840" y="120" width="280" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="yes76R0pdOmCLAEpGW5V-12" value="&lt;b&gt;结构化存储&lt;/b&gt;&#xa;- 用户表&#xa;- 产品表&#xa;- 订单表&#xa;- 库存表" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-11">
+          <mxGeometry x="20" y="40" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yes76R0pdOmCLAEpGW5V-13" value="&lt;b&gt;关键特性&lt;/b&gt;&#xa;- JSON字段扩展&#xa;- 事务一致性" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-11">
+          <mxGeometry x="20" y="180" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yes76R0pdOmCLAEpGW5V-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yes76R0pdOmCLAEpGW5V-6" target="yes76R0pdOmCLAEpGW5V-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yes76R0pdOmCLAEpGW5V-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yes76R0pdOmCLAEpGW5V-9" target="yes76R0pdOmCLAEpGW5V-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yes76R0pdOmCLAEpGW5V-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yes76R0pdOmCLAEpGW5V-8" target="yes76R0pdOmCLAEpGW5V-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yes76R0pdOmCLAEpGW5V-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yes76R0pdOmCLAEpGW5V-10" target="yes76R0pdOmCLAEpGW5V-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

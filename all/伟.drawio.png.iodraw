@@ -14,7 +14,7 @@
           <mxGeometry x="70" y="150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-7" value="云服务层" style="swimlane;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="480" y="120" width="280" height="400" as="geometry" />
+          <mxGeometry x="480" y="120" width="280" height="460" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-8" value="微信云函数&#xa;- KNN算法实现&#xa;- 实时推荐生成" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-7">
           <mxGeometry x="100" y="40" width="110" height="70" as="geometry" />

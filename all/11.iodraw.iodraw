@@ -160,10 +160,10 @@
         <mxCell id="9t7srf27pOHJmgSFPxVp-39" value="用户&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="760" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9t7srf27pOHJmgSFPxVp-40" value="景点城市" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9t7srf27pOHJmgSFPxVp-40" value="产品ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="760" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9t7srf27pOHJmgSFPxVp-41" value="景点城市" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9t7srf27pOHJmgSFPxVp-41" value="推荐时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="760" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9t7srf27pOHJmgSFPxVp-42" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9t7srf27pOHJmgSFPxVp-30" target="9t7srf27pOHJmgSFPxVp-40">

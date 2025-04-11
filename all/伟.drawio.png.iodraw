@@ -14,7 +14,7 @@
           <mxGeometry x="20" y="40" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-5" value="核心功能&#xa;- 用户注册/登录&#xa;- 偏好标签选择&#xa;- 推荐卡片展示&#xa;- 订单追踪" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-3">
-          <mxGeometry x="20" y="180" width="240" height="120" as="geometry" />
+          <mxGeometry x="20" y="180" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-6" value="数据交互&#xa;- HTTP请求云函数&#xa;- JSON数据解析" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-3">
           <mxGeometry x="20" y="300" width="240" height="80" as="geometry" />

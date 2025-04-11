@@ -28,7 +28,7 @@
         <mxCell id="yes76R0pdOmCLAEpGW5V-9" value="云数据库API&#xa;- MySQL读写接口&#xa;- JSON动态查询" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-7">
           <mxGeometry x="20" y="160" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yes76R0pdOmCLAEpGW5V-10" value="&lt;b&gt;业务流程&lt;/b&gt;&#xa;- 推荐请求处理&#xa;- 订单事务管理" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-7">
+        <mxCell id="yes76R0pdOmCLAEpGW5V-10" value="业务流程&#xa;- 推荐请求处理&#xa;- 订单事务管理" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-7">
           <mxGeometry x="20" y="240" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-11" value="&lt;b&gt;数据库层 (MySQL)&lt;/b&gt;" style="swimlane;fontSize=14;" vertex="1" parent="1">

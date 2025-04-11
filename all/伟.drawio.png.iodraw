@@ -10,7 +10,7 @@
         <mxCell id="yes76R0pdOmCLAEpGW5V-3" value="&lt;b&gt;前端交互层&lt;/b&gt;" style="swimlane;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="120" y="120" width="280" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="yes76R0pdOmCLAEpGW5V-4" value="&lt;b&gt;技术栈&lt;/b&gt;&#xa;- 微信原生框架&#xa;- Node.js&#xa;- Vue.js&#xa;- Uview Plus" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-3">
+        <mxCell id="yes76R0pdOmCLAEpGW5V-4" value="技术栈&#xa;- 微信原生框架&#xa;- Node.js&#xa;- Vue.js&#xa;- Uview Plus" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-3">
           <mxGeometry x="20" y="40" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-5" value="&lt;b&gt;核心功能&lt;/b&gt;&#xa;- 用户注册/登录&#xa;- 偏好标签选择&#xa;- 推荐卡片展示&#xa;- 订单追踪" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-3">

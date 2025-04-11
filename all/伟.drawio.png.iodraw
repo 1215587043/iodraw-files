@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="1tRNgN3RtMkCHngneZqO">
-    <mxGraphModel dx="1339" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1913" dy="1176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yes76R0pdOmCLAEpGW5V-3" value="前端交互层" style="swimlane;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="120" y="120" width="280" height="400" as="geometry" />
+          <mxGeometry x="85" y="230" width="280" height="400" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-4" value="技术栈&#xa;- 微信原生框架&#xa;- Node.js&#xa;- Vue.js&#xa;- Uview Plus" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-3">
           <mxGeometry x="80" y="40" width="100" height="90" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="70" y="150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-7" value="云服务层" style="swimlane;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="480" y="120" width="280" height="400" as="geometry" />
+          <mxGeometry x="445" y="230" width="280" height="400" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-8" value="微信云函数&#xa;- KNN算法实现&#xa;- 实时推荐生成" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-7">
           <mxGeometry x="100" y="40" width="110" height="70" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="110" y="250" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-11" value="数据库层 (MySQL)" style="swimlane;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="840" y="120" width="280" height="400" as="geometry" />
+          <mxGeometry x="805" y="230" width="280" height="400" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-12" value="结构化存储&#xa;- 用户表&#xa;- 产品表&#xa;- 订单表&#xa;- 库存表" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-11">
           <mxGeometry x="90" y="60" width="100" height="100" as="geometry" />
@@ -42,12 +42,12 @@
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yes76R0pdOmCLAEpGW5V-8" target="yes76R0pdOmCLAEpGW5V-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="260" as="sourcePoint" />
+            <mxPoint x="585" y="370" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="635" y="250" />
-              <mxPoint x="520" y="250" />
-              <mxPoint x="520" y="325" />
-              <mxPoint x="245" y="325" />
+              <mxPoint x="600" y="360" />
+              <mxPoint x="485" y="360" />
+              <mxPoint x="485" y="435" />
+              <mxPoint x="210" y="435" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -55,7 +55,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-5" value="核心功能&#xa;- 用户注册/登录&#xa;- 偏好标签选择&#xa;- 推荐卡片展示&#xa;- 订单追踪" style="text;align=left;" vertex="1" parent="1">
-          <mxGeometry x="180" y="420" width="130" height="80" as="geometry" />
+          <mxGeometry x="145" y="530" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

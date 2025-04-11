@@ -4,36 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Yzb1c7X6jYY5aOKtmcG_-27" value="用户" style="umlLifeline;participant=user;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="100" y="50" width="80" height="500" as="geometry" />
-        </mxCell>
-        <mxCell id="Yzb1c7X6jYY5aOKtmcG_-28" value="前端" style="umlLifeline;participant=frontend" vertex="1" parent="1">
-          <mxGeometry x="240" y="50" width="80" height="500" as="geometry" />
-        </mxCell>
-        <mxCell id="Yzb1c7X6jYY5aOKtmcG_-29" value="云函数" style="umlLifeline" vertex="1" parent="1">
-          <mxGeometry x="380" y="50" width="80" height="500" as="geometry" />
-        </mxCell>
-        <mxCell id="Yzb1c7X6jYY5aOKtmcG_-30" value="MySQL" style="umlLifeline" vertex="1" parent="1">
-          <mxGeometry x="520" y="50" width="80" height="500" as="geometry" />
-        </mxCell>
-        <mxCell id="Yzb1c7X6jYY5aOKtmcG_-31" value="请求推荐盲盒" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;entryX=0;entryY=0.5;" edge="1" parent="1" source="Yzb1c7X6jYY5aOKtmcG_-27" target="Yzb1c7X6jYY5aOKtmcG_-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Yzb1c7X6jYY5aOKtmcG_-32" value="GET /get_recommendations (用户ID)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" edge="1" parent="1" source="Yzb1c7X6jYY5aOKtmcG_-28" target="Yzb1c7X6jYY5aOKtmcG_-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Yzb1c7X6jYY5aOKtmcG_-33" value="" style="shape=umlFrame;whiteSpace=wrap;html=1;width=50;height=120;" vertex="1" parent="1">
-          <mxGeometry x="380" y="200" width="80" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Yzb1c7X6jYY5aOKtmcG_-34" value="KNN算法匹配（余弦相似度）" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;curved=1;" edge="1" parent="1" source="Yzb1c7X6jYY5aOKtmcG_-29" target="Yzb1c7X6jYY5aOKtmcG_-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="400" as="sourcePoint" />
-            <mxPoint x="460" y="450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Yzb1c7X6jYY5aOKtmcG_-35" value="返回偏好JSON" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;dashed=1;" edge="1" parent="1" source="Yzb1c7X6jYY5aOKtmcG_-30" target="Yzb1c7X6jYY5aOKtmcG_-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -34,7 +34,7 @@
         <mxCell id="yes76R0pdOmCLAEpGW5V-11" value="数据库层 (MySQL)" style="swimlane;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="840" y="120" width="280" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="yes76R0pdOmCLAEpGW5V-12" value="&lt;b&gt;结构化存储&lt;/b&gt;&#xa;- 用户表&#xa;- 产品表&#xa;- 订单表&#xa;- 库存表" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-11">
+        <mxCell id="yes76R0pdOmCLAEpGW5V-12" value="结构化存储&#xa;- 用户表&#xa;- 产品表&#xa;- 订单表&#xa;- 库存表" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-11">
           <mxGeometry x="20" y="40" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-13" value="&lt;b&gt;关键特性&lt;/b&gt;&#xa;- JSON字段扩展&#xa;- 事务一致性" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-11">

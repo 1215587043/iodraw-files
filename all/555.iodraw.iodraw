@@ -14,10 +14,10 @@
           <mxGeometry x="350" y="520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fpiAdY-AJ_v3WfW5fULC-4" value="&amp;nbsp;购买盲盒支付" style="rounded=0;whiteSpace=wrap;rotation=0;verticalAlign=middle;direction=east;flipH=1;flipV=1;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="550" y="660" width="120" height="80" as="geometry" />
+          <mxGeometry x="660" y="620" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fpiAdY-AJ_v3WfW5fULC-5" value="查看行程详情" style="rounded=0;whiteSpace=wrap;rotation=0;verticalAlign=middle;direction=east;flipH=1;flipV=1;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="920" y="520" width="120" height="80" as="geometry" />
+          <mxGeometry x="980" y="520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fpiAdY-AJ_v3WfW5fULC-6" value="&amp;nbsp;购买盲盒支付" style="rounded=0;whiteSpace=wrap;rotation=0;verticalAlign=middle;direction=east;flipH=1;flipV=1;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="680" y="520" width="120" height="80" as="geometry" />

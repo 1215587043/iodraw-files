@@ -13,7 +13,7 @@
             <mxPoint x="310" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9t7srf27pOHJmgSFPxVp-3" value="用户表*（user）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9t7srf27pOHJmgSFPxVp-3" value="用户表（user）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9t7srf27pOHJmgSFPxVp-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9t7srf27pOHJmgSFPxVp-5" target="9t7srf27pOHJmgSFPxVp-3">
@@ -52,7 +52,7 @@
         <mxCell id="9t7srf27pOHJmgSFPxVp-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9t7srf27pOHJmgSFPxVp-11" target="9t7srf27pOHJmgSFPxVp-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9t7srf27pOHJmgSFPxVp-11" value="用户表*（user）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9t7srf27pOHJmgSFPxVp-11" value="信息表（message）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

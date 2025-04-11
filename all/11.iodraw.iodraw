@@ -269,7 +269,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9t7srf27pOHJmgSFPxVp-61" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 18px;&quot;&gt;1：N&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=35;fontSize=18;" connectable="0" vertex="1" parent="9t7srf27pOHJmgSFPxVp-60">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-28" y="11" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

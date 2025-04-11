@@ -38,7 +38,7 @@
           <mxGeometry x="20" y="40" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-13" value="关键特性&#xa;- JSON字段扩展&#xa;- 事务一致性" style="text;align=left;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-11">
-          <mxGeometry x="20" y="180" width="240" height="80" as="geometry" />
+          <mxGeometry x="20" y="180" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yes76R0pdOmCLAEpGW5V-6" target="yes76R0pdOmCLAEpGW5V-8">
           <mxGeometry relative="1" as="geometry" />

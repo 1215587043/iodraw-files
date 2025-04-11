@@ -48,8 +48,8 @@
         <mxCell id="Yzb1c7X6jYY5aOKtmcG_-16" value="生成推荐" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="530" y="900" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Yzb1c7X6jYY5aOKtmcG_-17" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="360" y="853" width="40" height="40" as="geometry" />
+        <mxCell id="Yzb1c7X6jYY5aOKtmcG_-17" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="530" y="720" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

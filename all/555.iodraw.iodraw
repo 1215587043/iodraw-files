@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fpiAdY-AJ_v3WfW5fULC-1" value="旅游盲盒小程序" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="400" y="160" width="280" height="80" as="geometry" />
+          <mxGeometry x="440" y="200" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fpiAdY-AJ_v3WfW5fULC-2" value="注册登录" style="rounded=0;whiteSpace=wrap;rotation=0;verticalAlign=middle;direction=east;flipH=1;flipV=1;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="80" y="520" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fpiAdY-AJ_v3WfW5fULC-3" value="&amp;nbsp;购买支付" style="rounded=0;whiteSpace=wrap;rotation=0;verticalAlign=middle;direction=east;flipH=1;flipV=1;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="320" y="520" width="160" height="80" as="geometry" />
+          <mxGeometry x="360" y="520" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fpiAdY-AJ_v3WfW5fULC-4" value="&amp;nbsp;购买支付" style="rounded=0;whiteSpace=wrap;rotation=0;verticalAlign=middle;direction=east;flipH=1;flipV=1;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="640" y="520" width="160" height="80" as="geometry" />

@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="1tRNgN3RtMkCHngneZqO">
-    <mxGraphModel dx="372" dy="229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="923" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
           <mxGeometry x="90" y="60" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-13" value="关键特性&#xa;- JSON字段扩展&#xa;- 事务一致性" style="text;align=left;fontSize=16;" vertex="1" parent="yes76R0pdOmCLAEpGW5V-11">
-          <mxGeometry x="90" y="240" width="100" height="60" as="geometry" />
+          <mxGeometry x="90" y="240" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="yes76R0pdOmCLAEpGW5V-6" target="yes76R0pdOmCLAEpGW5V-8">
           <mxGeometry relative="1" as="geometry" />
@@ -53,7 +53,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yes76R0pdOmCLAEpGW5V-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="yes76R0pdOmCLAEpGW5V-10" target="yes76R0pdOmCLAEpGW5V-13">
+        <mxCell id="yes76R0pdOmCLAEpGW5V-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="yes76R0pdOmCLAEpGW5V-10" target="yes76R0pdOmCLAEpGW5V-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-5" value="核心功能&#xa;- 用户注册/登录&#xa;- 偏好标签选择&#xa;- 推荐卡片展示&#xa;- 订单追踪" style="text;align=left;fontSize=16;" vertex="1" parent="1">

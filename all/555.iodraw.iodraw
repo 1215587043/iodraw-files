@@ -11,7 +11,7 @@
           <mxGeometry x="80" y="520" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fpiAdY-AJ_v3WfW5fULC-3" value="订单及订单状态查询" style="rounded=0;whiteSpace=wrap;rotation=0;verticalAlign=middle;direction=east;flipH=1;flipV=1;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="360" y="520" width="160" height="80" as="geometry" />
+          <mxGeometry x="320" y="520" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fpiAdY-AJ_v3WfW5fULC-4" value="&amp;nbsp;购买盲盒支付" style="rounded=0;whiteSpace=wrap;rotation=0;verticalAlign=middle;direction=east;flipH=1;flipV=1;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="640" y="520" width="160" height="80" as="geometry" />

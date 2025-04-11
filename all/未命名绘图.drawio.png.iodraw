@@ -13,7 +13,7 @@
         <mxCell id="g3OQA1MGCMi6wXu5Xna--4" value="spark SQL分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g3OQA1MGCMi6wXu5Xna--5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g3OQA1MGCMi6wXu5Xna--5" value="数据获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g3OQA1MGCMi6wXu5Xna--6" value="Mysql存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

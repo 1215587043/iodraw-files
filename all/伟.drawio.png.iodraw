@@ -44,19 +44,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yes76R0pdOmCLAEpGW5V-8" target="yes76R0pdOmCLAEpGW5V-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="520" y="230" />
-              <mxPoint x="520" y="325" />
-              <mxPoint x="245" y="325" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yes76R0pdOmCLAEpGW5V-10" target="yes76R0pdOmCLAEpGW5V-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yes76R0pdOmCLAEpGW5V-5" value="核心功能&#xa;- 用户注册/登录&#xa;- 偏好标签选择&#xa;- 推荐卡片展示&#xa;- 订单追踪" style="text;align=left;" vertex="1" parent="1">
-          <mxGeometry x="215" y="410" width="130" height="80" as="geometry" />
+          <mxGeometry x="180" y="420" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

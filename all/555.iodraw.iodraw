@@ -22,10 +22,13 @@
         <mxCell id="fpiAdY-AJ_v3WfW5fULC-7" value="订单查询" style="rounded=0;whiteSpace=wrap;rotation=0;verticalAlign=middle;direction=east;flipH=1;flipV=1;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="280" y="520" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fpiAdY-AJ_v3WfW5fULC-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="fpiAdY-AJ_v3WfW5fULC-1">
+        <mxCell id="fpiAdY-AJ_v3WfW5fULC-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="fpiAdY-AJ_v3WfW5fULC-4" target="fpiAdY-AJ_v3WfW5fULC-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="610" y="480" as="sourcePoint" />
             <mxPoint x="660" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>

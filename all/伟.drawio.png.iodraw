@@ -110,6 +110,9 @@
         <mxCell id="g3OQA1MGCMi6wXu5Xna--32" value="前端页面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="735" y="168" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="g3OQA1MGCMi6wXu5Xna--33" value="&#xa;    &#xa;        &#xa;            &#xa;                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;&#xa;                &#xa;                &#xa;                    &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;&#xa;                &#xa;                &#xa;                    &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;&#xa;                &#xa;                &#xa;                    &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;                &#xa;                    &#xa;                &#xa;            &#xa;        &#xa;    &#xa;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="30" height="920" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

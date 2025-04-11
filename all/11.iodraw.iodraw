@@ -287,13 +287,13 @@
             <mxPoint x="101" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9t7srf27pOHJmgSFPxVp-65" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9t7srf27pOHJmgSFPxVp-31">
+        <mxCell id="9t7srf27pOHJmgSFPxVp-65" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" target="9t7srf27pOHJmgSFPxVp-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="630" as="sourcePoint" />
             <mxPoint x="670" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9t7srf27pOHJmgSFPxVp-66" value="M:N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9t7srf27pOHJmgSFPxVp-65">
+        <mxCell id="9t7srf27pOHJmgSFPxVp-66" value="M:N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="9t7srf27pOHJmgSFPxVp-65">
           <mxGeometry x="-0.0022" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
